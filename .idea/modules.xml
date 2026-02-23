@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seasion 2/Seasion 2.iml" filepath="$PROJECT_DIR$/Seasion 2/Seasion 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seasion 3/Seasion 3.iml" filepath="$PROJECT_DIR$/Seasion 3/Seasion 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seasion 4/Seasion 4.iml" filepath="$PROJECT_DIR$/Seasion 4/Seasion 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seasion5/Seasion5.iml" filepath="$PROJECT_DIR$/Seasion5/Seasion5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seasion6/Seasion6.iml" filepath="$PROJECT_DIR$/Seasion6/Seasion6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seasion7/Seasion7.iml" filepath="$PROJECT_DIR$/Seasion7/Seasion7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Season9/Season9.iml" filepath="$PROJECT_DIR$/Season9/Season9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thuchanh/Thuchanh.iml" filepath="$PROJECT_DIR$/Thuchanh/Thuchanh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss10/ss10.iml" filepath="$PROJECT_DIR$/ss10/ss10.iml" />
+    </modules>
+  </component>
+</project>
